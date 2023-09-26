@@ -6,7 +6,7 @@ Meus principais interesses são Desenvolvimento Back-End e Desenvolvimento de jo
 
 Possuo 1 ano e meio de experiencia profissional com desenvolvimento back-end utilizando C# com framework .NET e entity framework, modelando bancos de dados utilizando SQL Server, criando telas utilizando HTML, CSS, jQuery e Razor Pages e utilizando metodologias ágeas como scrum e kanban.
 
-Possuo experiencia como desenvolvedor Unity e Game Designer com meus colegas de faculdade na Molotov Estúdios. Em 2022 lançamos na steam e na play sore nosso primeiro jogo, o Spaceship for Newbies
+Possuo experiencia como desenvolvedor Unity e Game Designer com meus colegas de faculdade na Molotov Estúdios. Em 2022 lançamos na steam e na play store nosso primeiro jogo, o Spaceship for Newbies
 
 ### Conecte-se comigo
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:romualdoosfilho94@gmail.com)
