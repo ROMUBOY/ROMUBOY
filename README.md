@@ -1,12 +1,14 @@
 
 # Romualdo Santos
-Curioso sobre tudo que envolva tecnológia, em constante evolução e graduando em Engenharia da Computação pela UFBA.
+Concluinte em Engenharia da Computação pela Universidade Federal da Bahia, Desenvolvedor Back-End com foco em .NET/C# há 3 anos e Programador/Designer de jogos Unity há 5 anos.
 
-Meus principais interesses são Desenvolvimento Back-End e Desenvolvimento de jogos Eletrônicos.
+Em minha última oportunidade desenvolvi um sistema que automatizou a coleta de informações dos clientes, o que acelerou os processos de implatação.
 
-Possuo 1 ano e meio de experiencia profissional com desenvolvimento back-end utilizando C# com framework .NET e entity framework, modelando bancos de dados utilizando SQL Server, criando telas utilizando HTML, CSS, jQuery e Razor Pages e utilizando metodologias ágeas como scrum e kanban.
+Desenvolvi o jogo de computador e mobile Spaceship for Newbies com colegas da faculdade na Molotov Estúdios, disponível nas plataformas Steam e Play Store.
 
-Possuo experiencia como desenvolvedor Unity e Game Designer com meus colegas de faculdade na Molotov Estúdios. Em 2022 lançamos na steam e na play store nosso primeiro jogo, o Spaceship for Newbies
+Possuo 1 ano de experiência como Analista de Qualidade de Software e automatização de testes.
+
+Atualmente estou estudando AWS e DevOps para me tornar um profissional cada vez mais capacitado no mercado.
 
 ### Conecte-se comigo
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:romualdoosfilho94@gmail.com)
