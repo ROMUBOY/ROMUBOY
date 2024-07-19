@@ -8,7 +8,7 @@ Desenvolvi o jogo de computador e mobile Spaceship for Newbies com colegas da fa
 
 Possuo 1 ano de experiência como Analista de Qualidade de Software e automatização de testes.
 
-Atualmente estou estudando AWS e DevOps para me tornar um profissional cada vez mais capacitado no mercado.
+Atualmente estou estudando AWS, RabbitMQ e DevOps para me tornar um profissional cada vez mais capacitado no mercado.
 
 ### Conecte-se comigo
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:romualdoosfilho94@gmail.com)
