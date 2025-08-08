@@ -1,6 +1,6 @@
 
 # Romualdo Santos
-Concluinte em Engenharia da Computação pela Universidade Federal da Bahia, Desenvolvedor Back-End com foco em .NET/C# há 3 anos e Programador/Designer de jogos Unity há 5 anos.
+Graduado em Engenharia da Computação pela Universidade Federal da Bahia, Desenvolvedor Back-End com foco em .NET/C# há 3 anos e Programador/Designer de jogos Unity há 5 anos.
 
 Em minha última oportunidade desenvolvi um sistema que automatizou a coleta de informações dos clientes, o que acelerou os processos de implatação.
 
