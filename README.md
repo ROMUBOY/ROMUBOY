@@ -1,23 +1,24 @@
-
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/ROMUBOY/ROMUBOY/blob/main/README.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/ROMUBOY/ROMUBOY/blob/main/README.pt.md)
 # Romualdo Santos
-Concluinte em Engenharia da Computação pela Universidade Federal da Bahia, Desenvolvedor Back-End com foco em .NET/C# há 3 anos e Programador/Designer de jogos Unity há 5 anos.
+Graduated in Computer Engineering from the Federal University of Bahia, Back-End Developer focused on .NET/C# for 3 years, and Unity Game Programmer/Designer for 5 years.
 
-Em minha última oportunidade desenvolvi um sistema que automatizou a coleta de informações dos clientes, o que acelerou os processos de implatação.
+In my most recent role, I developed a system that automated the collection of client information, which sped up the implementation processes.
 
-Desenvolvi o jogo de computador e mobile Spaceship for Newbies com colegas da faculdade na Molotov Estúdios, disponível nas plataformas Steam e Play Store.
+I developed the PC and mobile game Spaceship for Newbies with college colleagues at Molotov Studios, available on Steam and the Play Store.
 
-Possuo 1 ano de experiência como Analista de Qualidade de Software e automatização de testes.
+I have 1 year of experience as a Software Quality Analyst and in test automation.
 
-Atualmente estou estudando AWS, RabbitMQ e DevOps para me tornar um profissional cada vez mais capacitado no mercado.
+I am currently studying AWS, RabbitMQ, and DevOps to become an increasingly skilled professional in the market.
 
-### Conecte-se comigo
+### Connect with me
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:romualdoosfilho94@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/romualdo-santos-filho/)
 [![SitePessoal](https://img.shields.io/badge/-Site-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](https://romuboy.github.io)
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://romuboy.itch.io/)
 
 
-### Habilidades
+### Skills
 ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
