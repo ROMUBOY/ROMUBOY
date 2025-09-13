@@ -1,5 +1,5 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/ROMUBOY)
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/ROMUBOY/ROMUBOY/blob/main/README.pt-br.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](README.pt-br.md)
 # Romualdo Santos
 Graduado em Engenharia da Computação pela Universidade Federal da Bahia, Desenvolvedor Back-End com foco em .NET/C# há 3 anos e Programador/Designer de jogos Unity há 5 anos.
 
